@@ -1,6 +1,7 @@
 =Scan usage=
 
 1 download termux from playstore or Google
+
 2 termux-setup-storage 
 3 copy and paste command bellow
 
